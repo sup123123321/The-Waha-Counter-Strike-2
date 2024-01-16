@@ -4,6 +4,7 @@
 
 
 ## Our program is used by players because it allows players to see through walls and other opaque objects on the map. It provides players with additional information about the location of opponents or even hidden objects. This can give them a significant advantage as they can see what would normally be hidden from them.
+![КС2](https://github.com/sup123123321/The-Waha-Counter-Strike-2/assets/156842164/c538b395-4504-45b8-a73e-8710f478f713)
 
 # Advantages of our program:
 
